@@ -1,7 +1,14 @@
 import nc from "next-connect";
-import { getSingleRoom } from "../../../controllers/roomControllers";
+import {
+  getSingleRoom,
+  updateRoom,
+  deleteRoom,
+} from "../../../controllers/roomControllers";
 import dbConnect from "../../../config/dbConnect";
-const handler = nc();
+import onError from "../../../middlewares/error";
+const handler = nc({ onError });
 dbConnect();
 handler.get(getSingleRoom);
+handler.put(updateRoom);
+handler.delete(deleteRoom);
 export default handler;
