@@ -69,7 +69,6 @@ const RoomFeatures = ({ room }) => {
         ></i>
         <p>Room Cleaning </p>
       </div>
-
     </div>
   );
 };
