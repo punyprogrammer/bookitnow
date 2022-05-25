@@ -11,6 +11,7 @@
     "airConditioned": false,
     "petsAllowed": false,
     "roomCleaning": true,
+    "ratings": 4.6,
     "images": [
       {
         "public_id": "bookit/rooms/1_bzynlv",
@@ -35,6 +36,7 @@
     "airConditioned": true,
     "petsAllowed": false,
     "roomCleaning": true,
+    "ratings": 4.6,
     "images": [
       {
         "public_id": "bookit/rooms/3_quuli7.jpg",
@@ -55,6 +57,7 @@
     "airConditioned": true,
     "petsAllowed": true,
     "roomCleaning": false,
+    "ratings": 4.6,
     "images": [
       {
         "public_id": "bookit/rooms/4_sju0ql",
@@ -75,6 +78,7 @@
     "airConditioned": true,
     "petsAllowed": false,
     "roomCleaning": true,
+    "ratings": 4.6,
     "images": [
       {
         "public_id": "bookit/rooms/5_jmydt6",
@@ -99,6 +103,7 @@
     "airConditioned": true,
     "petsAllowed": false,
     "roomCleaning": true,
+    "ratings": 4.6,
     "images": [
       {
         "public_id": "bookit/rooms/7_hshhzq",
@@ -119,6 +124,7 @@
     "airConditioned": true,
     "petsAllowed": false,
     "roomCleaning": true,
+    "ratings": 4.6,
     "images": [
       {
         "public_id": "bookit/rooms/8_crn0xy",
@@ -139,6 +145,7 @@
     "airConditioned": true,
     "petsAllowed": false,
     "roomCleaning": false,
+    "ratings": 4.6,
     "images": [
       {
         "public_id": "bookit/rooms/9_konrjf",
@@ -159,6 +166,7 @@
     "airConditioned": true,
     "petsAllowed": false,
     "roomCleaning": true,
+    "ratings": 4.6,
     "images": [
       {
         "public_id": "bookit/rooms/10_w8w8yi",
