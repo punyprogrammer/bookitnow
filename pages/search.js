@@ -4,7 +4,7 @@ import Search from '../components/search/Search'
 
 const search = () => {
   return (
-    <Layout>
+    <Layout  title="Search for the best Hotels">
          <Search/>
     </Layout>
   )
